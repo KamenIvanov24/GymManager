@@ -3,52 +3,56 @@
   "WorkspaceRootPath": "D:\\GymManager\\GymManager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7500D03D-159D-4C53-BF1E-143FE7C65D7D}|GymManager.csproj|d:\\gymmanager\\gymmanager\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7500D03D-159D-4C53-BF1E-143FE7C65D7D}|GymManager.csproj|solutionrelative:views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7500D03D-159D-4C53-BF1E-143FE7C65D7D}|GymManager.csproj|d:\\gymmanager\\gymmanager\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7500D03D-159D-4C53-BF1E-143FE7C65D7D}|GymManager.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7500D03D-159D-4C53-BF1E-143FE7C65D7D}|GymManager.csproj|d:\\gymmanager\\gymmanager\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7500D03D-159D-4C53-BF1E-143FE7C65D7D}|GymManager.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7500D03D-159D-4C53-BF1E-143FE7C65D7D}|GymManager.csproj|d:\\gymmanager\\gymmanager\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7500D03D-159D-4C53-BF1E-143FE7C65D7D}|GymManager.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7500D03D-159D-4C53-BF1E-143FE7C65D7D}|GymManager.csproj|d:\\gymmanager\\gymmanager\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7500D03D-159D-4C53-BF1E-143FE7C65D7D}|GymManager.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7500D03D-159D-4C53-BF1E-143FE7C65D7D}|GymManager.csproj|d:\\gymmanager\\gymmanager\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7500D03D-159D-4C53-BF1E-143FE7C65D7D}|GymManager.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7500D03D-159D-4C53-BF1E-143FE7C65D7D}|GymManager.csproj|d:\\gymmanager\\gymmanager\\gymmanager.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{7500D03D-159D-4C53-BF1E-143FE7C65D7D}|GymManager.csproj|solutionrelative:gymmanager.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7500D03D-159D-4C53-BF1E-143FE7C65D7D}|GymManager.csproj|d:\\gymmanager\\gymmanager\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{7500D03D-159D-4C53-BF1E-143FE7C65D7D}|GymManager.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7500D03D-159D-4C53-BF1E-143FE7C65D7D}|GymManager.csproj|d:\\gymmanager\\gymmanager\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
-      "RelativeMoniker": "D:0:0:{7500D03D-159D-4C53-BF1E-143FE7C65D7D}|GymManager.csproj|solutionrelative:wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+      "AbsoluteMoniker": "D:0:0:{7500D03D-159D-4C53-BF1E-143FE7C65D7D}|GymManager.csproj|d:\\gymmanager\\gymmanager\\views\\user\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7500D03D-159D-4C53-BF1E-143FE7C65D7D}|GymManager.csproj|solutionrelative:views\\user\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7500D03D-159D-4C53-BF1E-143FE7C65D7D}|GymManager.csproj|d:\\gymmanager\\gymmanager\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7500D03D-159D-4C53-BF1E-143FE7C65D7D}|GymManager.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7500D03D-159D-4C53-BF1E-143FE7C65D7D}|GymManager.csproj|d:\\gymmanager\\gymmanager\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7500D03D-159D-4C53-BF1E-143FE7C65D7D}|GymManager.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7500D03D-159D-4C53-BF1E-143FE7C65D7D}|GymManager.csproj|d:\\gymmanager\\gymmanager\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7500D03D-159D-4C53-BF1E-143FE7C65D7D}|GymManager.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7500D03D-159D-4C53-BF1E-143FE7C65D7D}|GymManager.csproj|d:\\gymmanager\\gymmanager\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7500D03D-159D-4C53-BF1E-143FE7C65D7D}|GymManager.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7500D03D-159D-4C53-BF1E-143FE7C65D7D}|GymManager.csproj|d:\\gymmanager\\gymmanager\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7500D03D-159D-4C53-BF1E-143FE7C65D7D}|GymManager.csproj|solutionrelative:views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7500D03D-159D-4C53-BF1E-143FE7C65D7D}|GymManager.csproj|d:\\gymmanager\\gymmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7500D03D-159D-4C53-BF1E-143FE7C65D7D}|GymManager.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7500D03D-159D-4C53-BF1E-143FE7C65D7D}|GymManager.csproj|d:\\gymmanager\\gymmanager\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7500D03D-159D-4C53-BF1E-143FE7C65D7D}|GymManager.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7500D03D-159D-4C53-BF1E-143FE7C65D7D}|GymManager.csproj|d:\\gymmanager\\gymmanager\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{7500D03D-159D-4C53-BF1E-143FE7C65D7D}|GymManager.csproj|solutionrelative:wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7500D03D-159D-4C53-BF1E-143FE7C65D7D}|GymManager.csproj|d:\\gymmanager\\gymmanager\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7500D03D-159D-4C53-BF1E-143FE7C65D7D}|GymManager.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7500D03D-159D-4C53-BF1E-143FE7C65D7D}|GymManager.csproj|d:\\gymmanager\\gymmanager\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7500D03D-159D-4C53-BF1E-143FE7C65D7D}|GymManager.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7500D03D-159D-4C53-BF1E-143FE7C65D7D}|GymManager.csproj|d:\\gymmanager\\gymmanager\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7500D03D-159D-4C53-BF1E-143FE7C65D7D}|GymManager.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7500D03D-159D-4C53-BF1E-143FE7C65D7D}|GymManager.csproj|d:\\gymmanager\\gymmanager\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7500D03D-159D-4C53-BF1E-143FE7C65D7D}|GymManager.csproj|solutionrelative:views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7500D03D-159D-4C53-BF1E-143FE7C65D7D}|GymManager.csproj|d:\\gymmanager\\gymmanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7500D03D-159D-4C53-BF1E-143FE7C65D7D}|GymManager.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,100 +62,44 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 11,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "D:\\GymManager\\GymManager\\Views\\Home\\Login.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Login.cshtml",
-              "ToolTip": "D:\\GymManager\\GymManager\\Views\\Home\\Login.cshtml",
-              "RelativeToolTip": "Views\\Home\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T10:12:37.934Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\GymManager\\GymManager\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\GymManager\\GymManager\\Views\\Shared\\_Layout.cshtml*",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml*",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T10:09:33.178Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GymManager",
-              "DocumentMoniker": "D:\\GymManager\\GymManager\\GymManager.csproj",
-              "RelativeDocumentMoniker": "GymManager.csproj",
-              "ToolTip": "D:\\GymManager\\GymManager\\GymManager.csproj",
-              "RelativeToolTip": "GymManager.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-16T10:09:14.616Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "site.js",
-              "DocumentMoniker": "D:\\GymManager\\GymManager\\wwwroot\\js\\site.js",
-              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
-              "ToolTip": "D:\\GymManager\\GymManager\\wwwroot\\js\\site.js",
-              "RelativeToolTip": "wwwroot\\js\\site.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-12-16T10:09:09.703Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\GymManager\\GymManager\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\GymManager\\GymManager\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T18:16:47.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "favicon.ico -  [English (United States)] - Icon [32x32, 32 bit, BMP]",
               "DocumentMoniker": "D:\\GymManager\\GymManager\\wwwroot\\favicon.ico",
               "RelativeDocumentMoniker": "wwwroot\\favicon.ico",
               "ToolTip": "D:\\GymManager\\GymManager\\wwwroot\\favicon.ico -  [English (United States)] - Icon [32x32, 32 bit, BMP]",
               "RelativeToolTip": "wwwroot\\favicon.ico -  [English (United States)] - Icon [32x32, 32 bit, BMP]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
-              "WhenOpened": "2024-12-16T10:09:00.503Z",
+              "WhenOpened": "2024-12-17T18:16:26.068Z",
               "EditorCaption": " -  [English (United States)] - Icon [32x32, 32 bit, BMP]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "D:\\GymManager\\GymManager\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
-              "ToolTip": "D:\\GymManager\\GymManager\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T10:05:04.446Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\GymManager\\GymManager\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\GymManager\\GymManager\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T10:05:03.544Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "D:\\GymManager\\GymManager\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
@@ -159,12 +107,12 @@
               "RelativeToolTip": "Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T10:04:52.267Z",
+              "WhenOpened": "2024-12-17T18:16:14.983Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "D:\\GymManager\\GymManager\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
@@ -172,25 +120,103 @@
               "RelativeToolTip": "Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T10:04:50.158Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "D:\\GymManager\\GymManager\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
-              "ToolTip": "D:\\GymManager\\GymManager\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T10:04:46.339Z",
+              "WhenOpened": "2024-12-17T18:16:13.656Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\GymManager\\GymManager\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\GymManager\\GymManager\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T18:15:53.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\GymManager\\GymManager\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Login.cshtml",
+              "ToolTip": "D:\\GymManager\\GymManager\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "Views\\Home\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T18:15:52.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\GymManager\\GymManager\\Views\\User\\Add.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\Add.cshtml",
+              "ToolTip": "D:\\GymManager\\GymManager\\Views\\User\\Add.cshtml",
+              "RelativeToolTip": "Views\\User\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T18:14:07.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\GymManager\\GymManager\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\Index.cshtml",
+              "ToolTip": "D:\\GymManager\\GymManager\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "Views\\User\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T18:13:03.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\GymManager\\GymManager\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "D:\\GymManager\\GymManager\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T18:10:13.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\GymManager\\GymManager\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "D:\\GymManager\\GymManager\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwE0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T18:01:23.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\GymManager\\GymManager\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\GymManager\\GymManager\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-17T16:55:05.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\GymManager\\GymManager\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -203,13 +229,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\GymManager\\GymManager\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\GymManager\\GymManager\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-16T10:00:52.452Z",
               "EditorCaption": ""

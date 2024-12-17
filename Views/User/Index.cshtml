@@ -1,0 +1,28 @@
+﻿@model List<GymManager.Models.User>
+@{
+    ViewData["Title"] = "User List";
+}
+
+<h1>User List</h1>
+<a asp-action="Add" class="btn btn-primary">Add New User</a>
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Username</th>
+            <th>Password</th>
+            <th>Role</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Model)
+        {
+            <tr>
+                <td>@user.ID</td>
+                <td>@user.Username</td>
+                <td>@user.Password</td>
+                <td>@user.Role</td>
+            </tr>
+        }
+    </tbody>
+</table>

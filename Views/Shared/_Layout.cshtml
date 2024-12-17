@@ -28,6 +28,12 @@
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Login">Login</a>
                         </li>
+                        <li>
+                            <a asp-action="Add" asp-controller="User" class="btn btn-primary mb-3">Add New User</a>
+                        </li>
+                        <li>
+                            <a href="@Url.Action("Index", "User")" class="btn btn-primary">View Users</a>
+                        </li>
                     </ul>
                 </div>
             </div>
