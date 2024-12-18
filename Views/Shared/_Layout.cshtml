@@ -22,23 +22,19 @@
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Login">Login</a>
-                        </li>
-                        <li>
-                            <a asp-action="Add" asp-controller="User" class="btn btn-primary mb-3">Add New User</a>
-                        </li>
                         <li>
                             <a href="@Url.Action("Index", "User")" class="btn btn-primary">View Users</a>
                         </li>
                     </ul>
+                    <div class="d-flex">
+                        <a asp-action="Login" asp-controller="User" class="btn btn-outline-primary me-2">Login</a>
+                        <a asp-action="Add" asp-controller="User" class="btn btn-primary">Register</a>
+                    </div>
                 </div>
             </div>
         </nav>
     </header>
+
     <div class="container">
         <main role="main" class="pb-3">
             @RenderBody()
@@ -46,8 +42,8 @@
     </div>
 
     <footer class="border-top footer text-muted">
-        <div class="container">
-            &copy; 2024 - GymManager - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        <div class="container" style="text-align: center;">
+            &copy; 2024 - GymManager
         </div>
     </footer>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
